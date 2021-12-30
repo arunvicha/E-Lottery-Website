@@ -1,0 +1,56 @@
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+
+  span{
+      color: red;
+      background-color: gold;
+  }
+  hr{
+      color:red;
+  }
+  div{
+      background-color: cyan;
+  }
+  .red{
+      color: red;
+  }
+  .none{
+      color: red;
+      background-color: cyan;
+  }
+
+  input[type=submit] {
+    background-color: #45a049;
+    color:white;
+  }
+  input[type=submit]:hover {
+    background-color: red;
+  }
+  input[type=text], select, textarea {
+    width: 50%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  input[type=email], select, textarea {
+    width: 50%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  .redd{
+      color: red;
+      background-color: white;
+  }
