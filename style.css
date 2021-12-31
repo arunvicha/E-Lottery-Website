@@ -5,6 +5,7 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    font-size: large;
   }
   
   a:hover, a:active {
@@ -53,4 +54,18 @@ a:link, a:visited {
   .redd{
       color: red;
       background-color: white;
+  }
+
+  .bi{
+    background-image: url("win.jpg");
+    background-blend-mode: lighten;
+    background-color: lightgreen;
+    color: black;
+  }
+
+  .bg{
+  background-color: cyan;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: color-dodge;
   }
