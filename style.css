@@ -69,3 +69,7 @@ a:link, a:visited {
     background-size: cover;
     background-blend-mode: color-dodge;
   }
+  .big{
+    size: 30pxS;
+    font-size: large;
+  }
