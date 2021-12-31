@@ -34,19 +34,20 @@ a:link, a:visited {
     background-color: #45a049;
     color:white;
     font-size: large;
+    width: 30%;
   }
   input[type=submit]:hover {
     background-color: red;
   }
   input[type=text], select, textarea {
-    width: 50%;
+    width: 100%;
     padding: 12px;
     border: 1px solid #ccc;
     border-radius: 4px;
     resize: vertical;
   }
   input[type=email], select, textarea {
-    width: 50%;
+    width: 100%;
     padding: 12px;
     border: 1px solid #ccc;
     border-radius: 4px;
