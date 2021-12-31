@@ -33,6 +33,7 @@ a:link, a:visited {
   input[type=submit] {
     background-color: #45a049;
     color:white;
+    font-size: large;
   }
   input[type=submit]:hover {
     background-color: red;
